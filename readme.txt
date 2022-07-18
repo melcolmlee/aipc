@@ -1,1 +1,1 @@
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
+Look at README.md instead!
